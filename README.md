@@ -84,8 +84,8 @@ SARIMAX(
 
 | Metric                     | Value    |
 |---------------------------|----------|
-| Mean Absolute Error (MAE) | 108.22   |
-| Root Mean Squared Error (RMSE) | 143.17 |
+| Mean Absolute Error (MAE) | 216.95   |
+| Root Mean Squared Error (RMSE) | 298.02 |
 
 ---
 
