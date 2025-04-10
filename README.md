@@ -94,7 +94,8 @@ SARIMAX(
 > The forecasted sales closely tracked actual sales for the validation period, capturing both trend and weekly seasonality effectively.  
 > *(Visualization plot is included in the `/images` directory as `forecast_plot.png`)*
 
-![Forecast vs Actual](./images/forecast_plot.png)
+![Forecast vs Actual]
+![download](https://github.com/user-attachments/assets/1a8df06a-b9e8-4cf3-b36c-68a6284576f9)
 
 ---
 
